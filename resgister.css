@@ -44,7 +44,7 @@ body{
 }
 
 .container form .user_details .inputbox .details{
-    display: block;
+    
     font-weight: 600;
     margin-bottom: 8px;
 }
